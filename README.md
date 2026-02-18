@@ -1,5 +1,4 @@
 # Dynamic-Spectral-Polarity-Linear-Attention-DSP-Attention-
-# DSP-Attention: Dynamic Spectral-Polarity Linear Attention
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.12%2B-orange)](https://pytorch.org/)
